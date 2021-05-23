@@ -9,6 +9,8 @@
 
 <img align="left" alt="discord.com" width="22px" src="https://i.redd.it/s9biyhs4lix61.jpg"/>
 
+## Discord: Cake#3077
+
 <br />
 
 ### Languages and Tools:
