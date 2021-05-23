@@ -7,13 +7,13 @@
 
 ### Connect with me:
 
-[<img align="left" alt="discord.com" width="22px" src="https://i.redd.it/s9biyhs4lix61.jpg"/>][discord]
+[<img align="left" alt="discord.com" width="22px" src="https://i.redd.it/s9biyhs4lix61.jpg"/>]
 
 <br />
 
 ### Languages and Tools:
-[<img align="left" alt="discord.com" width="22px" src="https://user-images.githubusercontent.com/674621/71187801-14e60a80-2280-11ea-94c9-e56576f76baf.png"/>][Visual Studio Code]
-[<img align="left" alt="discord.com" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/9/91/Octicons-mark-github.svg"/>][Github]
-[<img align="left" alt="discord.com" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/768px-Python-logo-notext.svg.png"/>][Python]
-[<img align="left" alt="discord.com" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/306px-ISO_C%2B%2B_Logo.svg.png"/>][C++]
-[<img align="left" alt="discord.com" width="22px" src="https://brandslogos.com/wp-content/uploads/images/large/unity-logo.png"/>][Unity]
+[<img align="left" alt="discord.com" width="22px" src="https://user-images.githubusercontent.com/674621/71187801-14e60a80-2280-11ea-94c9-e56576f76baf.png"/>]
+[<img align="left" alt="discord.com" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/9/91/Octicons-mark-github.svg"/>]
+[<img align="left" alt="discord.com" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/768px-Python-logo-notext.svg.png"/>]
+[<img align="left" alt="discord.com" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/306px-ISO_C%2B%2B_Logo.svg.png"/>]
+[<img align="left" alt="discord.com" width="22px" src="https://brandslogos.com/wp-content/uploads/images/large/unity-logo.png"/>]
