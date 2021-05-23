@@ -6,9 +6,6 @@
 - Currently not working on any project, just making projects for fun and exercise
 
 ### Connect with me:
-
-<img align="left" alt="discord.com" width="22px" src="https://i.redd.it/s9biyhs4lix61.jpg"/>
-
 ## Discord: Cake#3077
 
 <br />
