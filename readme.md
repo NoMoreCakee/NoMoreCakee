@@ -6,7 +6,7 @@
 - Currently not working on any project, just making projects for fun and exercise
 
 ### Connect with me:
-#### Discord: Cake#3077
+#### Discord: Cakee#4040
 
 <br />
 
