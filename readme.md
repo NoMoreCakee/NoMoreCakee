@@ -3,7 +3,7 @@
 I'm **Tamás Fokti**, an ICT student from Kecskemét, Hungary. 
 Currently, I am: 
 - Developing a self-improvement app 💪
-- Trying to improve my networking skills 🌐
+- Improving my networking skills 🌐
 - Attending High School 📚
 
 Computers have been a crucial part of my life since childhood, fueling my curiosity about the hows of the internet. I began my journey in ICT during primary school, and my passion for web development has only grown stronger over the years.
